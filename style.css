@@ -85,8 +85,8 @@
             display: grid;
             grid-column-start: 2;
             grid-column-end: 5;
-            grid-row-start: 5;
-            grid-row-end: 6;
+            grid-row-start: 6;
+            grid-row-end: 7;
             justify-content: center;
         }
         .box4 > aside >img{
@@ -100,8 +100,8 @@
             display: grid;
             grid-column-start: 6;
             grid-column-end: 9;
-            grid-row-start: 5;
-            grid-row-end: 6;
+            grid-row-start: 6;
+            grid-row-end: 7;
             justify-content: center;
         }
         .box5 >img{
