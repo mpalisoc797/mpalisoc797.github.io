@@ -19,7 +19,7 @@
             display: grid;
             gap: 20px;
             grid-template-columns: repeat(9,1fr);
-            grid-template-rows: .07fr repeat(6,1fr);
+            grid-template-rows: .05fr repeat(6,1fr);
             
             
         }
@@ -113,7 +113,7 @@
     .links{
        
         background-color: azure;
-        margin-top: 0.8%;
+      
        
     }
     #b{
@@ -171,7 +171,7 @@
         display: grid;
         gap: 10px;
         grid-template-columns: repeat(6,1fr);
-        grid-template-rows: .07fr repeat(6,1fr);
+        grid-template-rows: .04fr repeat(6,1fr);
         
         
     }
